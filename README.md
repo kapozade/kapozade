@@ -1,5 +1,5 @@
 <h2 align="center">Hey 👋, I'm Onur Kapçık</h2>
-<div style="width:100%"><br /></div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/onur-kapcik/" target="_blank"><img align="center" src="assets/kapozade-linkedin.svg" alt="onurkapcik" width="30px" /></a>
 </p>

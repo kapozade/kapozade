@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Onur Kapçık</h2>
+<h2 align="center">Hey <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>, I'm Onur Kapçık</h2>
 
 <p align="center">
 I am lifelong learner and software developer living in Izmir, Turkey.

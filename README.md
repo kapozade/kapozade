@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src='https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png' width="40px"/>, I'm Onur Kapçık</h2>
 
 <p align="center">
-I am lifelong learner and software developer living in Izmir, Turkey.
+I am lifelong learner and software engineer living in Izmir, Turkey.
 </p>
 
 <p align="center">
